@@ -1,7 +1,7 @@
 # Editor de texto CLI con compresión Huffman concurrente
 
 **Universidad EAFIT — Sistemas Operativos — Parcial 2, Alternativa 1**
-*Compresor de archivos Huffman concurrente integrado al editor del Parcial 1.*
+*Compresor de archivos Huffman concurrente integrado al editor del Parcial 1. Samuel Ruidiaz Camargo*
 
 C11 + POSIX threads (`pthread`, `mutex`, variables de condición, `stdatomic`). Sin
 librerías de alto nivel que abstraigan la sincronización. Todo el acceso a archivos
