@@ -1,0 +1,13 @@
+bin/
+build/
+bin-tsan/
+build-tsan/
+pruebas_editor/
+pruebas_huffman/
+demo.txt
+desde_shell.txt
+verif.txt
+prueba_trunc.txt
+prueba_nl.txt
+grande.txt
+grande.txt
